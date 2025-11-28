@@ -1,3 +1,4 @@
 HDD
 SSD
 PATa
+SATA
